@@ -43,5 +43,5 @@ It transforms raw transactional data into **actionable insights** with **clear s
 ---
 
 ## ✨ Author  
-**Zeet Limbachia** – Data Analyst  
-📧 Email: zeetlimbachiya30@gmail.com
+**Zeet Limbachiya** – Data Analyst  
+📧 Email: zeetlimbachiya11@gmail.com
